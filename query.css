@@ -76,7 +76,7 @@
 
 @media only screen and (max-width: 54.3125em) {
   nav {
-
+    align-items: flex-start;
     position: relative;
   }
 
@@ -85,12 +85,12 @@
     margin-top: 5rem;
     position: absolute;
     right: -8rem;
-    background-color: #edb872;
+    background-color: #fff;
     padding: 10rem 5rem;
     font-size: 1.5rem;
     opacity: 0;
     width: 0;
-    height: 70vh;
+    height: 100vh;
     transition: all .8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
     border-top-left-radius: .6rem;
@@ -107,7 +107,7 @@
   }
 
   nav ul li a {
-    color: #052925;
+    color: #0159bb;
   }
 
   .sidebarHidden {

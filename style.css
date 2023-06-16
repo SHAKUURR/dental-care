@@ -10,13 +10,13 @@ html {
 
 body {
   font-family: 'IBM Plex Sans', sans-serif;
-  background-color: #f1f7f1;
+  background-color: #ebeff55e;
 
 }
 
 /* #ebf1f0 */
 header {
-  background-color: #052925;
+  background-color: #0159bb;
   /* height: 100vh; */
   padding: 5rem 10rem;
   overflow-x: hidden;
@@ -54,8 +54,8 @@ nav a {
 
 .btn a {
   font-size: 1.8rem;
-  background-color: #edb872;
-  color: #052925;
+  background-color: #FFF;
+  color: #0159bb;
   padding: 1.5rem 4rem;
   border-radius: .5rem;
 }
@@ -94,8 +94,8 @@ h1 {
 .hero-text a {
   text-decoration: none;
   padding: 1.5rem 5rem;
-  background-color: #edb872;
-  color: #052925;
+  background-color: #FFF;
+  color: #0159bb;
   font-size: 1.5rem;
   font-weight: 600;
 }
@@ -115,7 +115,7 @@ h1 {
 .service-detail h2 {
   font-size: 3rem;
   text-transform: capitalize;
-  color: #052925;
+  color: #0159bb;
 }
 
 .service-detail p {
@@ -126,10 +126,10 @@ h1 {
 }
 
 .service-detail a {
-  background-color: #edb872;
+  background-color: #0159bb;
   padding: 1rem 2rem;
   text-decoration: none;
-  color: #052925;
+  color: #FFF;
   font-size: 1.4rem;
   font-weight: 600;
 }
@@ -141,6 +141,7 @@ h1 {
 .service-type h3 {
   font-size: 1.7rem;
   margin-bottom: 1rem;
+  color: #0159bb;
 }
 
 .service-type p {
@@ -150,11 +151,12 @@ h1 {
 }
 
 .service-type span {
-  background-color: #02312cb0;
+  background-color: #0159bb;
   padding: .5rem 1rem;
   display: inline-block;
   border-radius: .2rem;
   margin-right: 1rem;
+  color: #fff;
 }
 
 .service-type-box:not(:last-child) {
@@ -197,7 +199,7 @@ h1 {
 .profile-text h2 {
   font-size: 3.5rem;
   text-transform: capitalize;
-  color: #052925;
+  color: #0159bb;
 }
 
 .profile-text p {
@@ -210,7 +212,7 @@ h1 {
 
 .profile-text a {
   text-decoration: none;
-  background-color: #052925;
+  background-color: #0159bb;
   color: #fff;
   padding: 1rem 3rem;
   font-size: 1.4rem;
@@ -218,7 +220,7 @@ h1 {
 
 /* Form */
 .form {
-  background-color: #052925;
+  background-color: #0159bb;
 }
 
 input {
@@ -260,12 +262,12 @@ form {
 
 button {
   padding: 1rem 5rem;
-  background-color: #edb872;
+  background-color: #fff;
   border-radius: .5rem;
   outline: none;
   border: none;
   font-size: 1.6rem;
-  color: #052925;
+  color: #0159bb;
   font-family: 'IBM Plex Sans',
     sans-serif;
   cursor: pointer;
@@ -299,6 +301,7 @@ button {
   text-transform: capitalize;
   margin-bottom: 2rem;
   width: 55%;
+  color: #0159bb;
 }
 
 .public p {
@@ -307,12 +310,12 @@ button {
   margin-bottom: 3rem;
   width: 70%;
   text-align: justify;
-  color: #052925;
+  color: #333;
 }
 
 .public a {
   text-decoration: none;
-  background-color: #052925;
+  background-color: #0159bb;
   color: #fff;
   padding: 1rem 3rem;
   font-size: 1.4rem;
@@ -334,7 +337,7 @@ button {
 
 /* FOOTER */
 footer {
-  background-color: #052925;
+  background-color: #0159bb;
   color: #fff;
   padding: 8rem 5rem;
   padding-bottom: 1rem;
@@ -395,8 +398,8 @@ footer li a {
 }
 
 #menu {
-  font-size: 3rem;
-  color: #edb872;
+  font-size: 5rem;
+  color: #FFF;
   transition: all .2s;
 
 }
