@@ -19,7 +19,7 @@ header {
   background-color: #0159bb;
   /* height: 100vh; */
   padding: 5rem 10rem;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 section {
@@ -398,7 +398,7 @@ footer li a {
 }
 
 #menu {
-  font-size: 5rem;
+  font-size: 4rem;
   color: #FFF;
   transition: all .2s;
 
